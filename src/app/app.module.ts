@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import {AppComponent} from "./app.component";
-import {HeroModule} from "./heroes/hero.module";
+import {HeroModule} from "./hero.module";
 
 @NgModule({
   declarations: [
